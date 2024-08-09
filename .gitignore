@@ -1,0 +1,13 @@
+# Ignore virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignore .idea folder
+.idea/
+
+# Ignore any other related files
+*.pyc
+__pycache__/
